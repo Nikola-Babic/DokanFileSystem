@@ -1,0 +1,12 @@
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\obj\Debug\File_System_Lab.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\obj\Debug\File_System_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Debug\File_System_Lab.exe.config
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Debug\File_System_Lab.exe
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Debug\File_System_Lab.pdb
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Debug\DokanNet.dll
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Debug\de\DokanNet.resources.dll
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Debug\fr\DokanNet.resources.dll
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Debug\sv\DokanNet.resources.dll
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\obj\Debug\File_System_Lab.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\obj\Debug\File_System_Lab.exe
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\obj\Debug\File_System_Lab.pdb

@@ -1,0 +1,11 @@
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Release\File_System_Lab.exe.config
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Release\File_System_Lab.exe
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Release\File_System_Lab.pdb
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Release\DokanNet.dll
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Release\de\DokanNet.resources.dll
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Release\fr\DokanNet.resources.dll
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\bin\Release\sv\DokanNet.resources.dll
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\obj\Release\File_System_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\obj\Release\File_System_Lab.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\obj\Release\File_System_Lab.exe
+C:\Users\Korisnik\source\repos\File_System_Lab\File_System_Lab\obj\Release\File_System_Lab.pdb
